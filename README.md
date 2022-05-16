@@ -4,15 +4,15 @@
 
 The main objective is to create a book recommendation system for users. Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors.
 
-Methods Used
+## Methods Used
 
 Descriptive Statistics Data Visualization Machine Learning
 
-Technologies
+## Technologies
 
 Python Pandas Numpy Matplotlib Seaborn Scikit-learn Surprise
 
-Data
+## Data
 
 The Book-Crossing dataset comprises 3 files.
 
