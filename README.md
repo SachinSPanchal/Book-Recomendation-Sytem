@@ -12,6 +12,13 @@ Descriptive Statistics Data Visualization Machine Learning
 
 Python Pandas Numpy Matplotlib Seaborn Scikit-learn Surprise
 
+## Algorithms Implemented
+1. Popularity Based Filtering
+2. Corelation Based Recommendation System
+3. KNN Based Recommendation System
+4. SVD Based Recommendation System
+5. Content Based Recommendation System
+
 ## Data
 
 The Book-Crossing dataset comprises 3 files.
